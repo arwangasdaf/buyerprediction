@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spark">
+    <CLASSES>
+      <root url="file://D:/ecpliwork/RealTimePopulationAnalysisV6.0/spark" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/ecpliwork/RealTimePopulationAnalysisV6.0/spark" />
+    </SOURCES>
+    <jarDirectory url="file://D:/ecpliwork/RealTimePopulationAnalysisV6.0/spark" recursive="false" />
+    <jarDirectory url="file://D:/ecpliwork/RealTimePopulationAnalysisV6.0/spark" recursive="false" type="SOURCES" />
+  </library>
+</component>
